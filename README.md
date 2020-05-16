@@ -74,3 +74,5 @@ asperiores, minima blanditiis repellendus illo tempore dolor libero, tenetur.
 ## 006
 
 ## Hotfix v0.2.1
+
+## Hotfix v0.2.2
