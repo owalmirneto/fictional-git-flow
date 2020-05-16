@@ -12,6 +12,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores minima
 officiis distinctio iste. Aperiam veniam velit quisquam commodi, ea temporibus
 asperiores, minima blanditiis repellendus illo tempore dolor libero, tenetur.
 
+<<<<<<< HEAD
+## Outra tarefa
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores minima
+officiis distinctio iste. Aperiam veniam velit quisquam commodi, ea temporibus
+asperiores, minima blanditiis repellendus illo tempore dolor libero, tenetur.
+
 ## Hotfixed
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores minima
@@ -36,11 +43,20 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores minima
 officiis distinctio iste. Aperiam veniam velit quisquam commodi, ea temporibus
 asperiores, minima blanditiis repellendus illo tempore dolor libero, tenetur.
 
-## Outro teste (Já to me cansando)
+## Nova Tarefa
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores minima
 officiis distinctio iste. Aperiam veniam velit quisquam commodi, ea temporibus
 asperiores, minima blanditiis repellendus illo tempore dolor libero, tenetur.
+
+## Outro teste (Já to me cansando)
+
+## Tarefa com codigo atualizado
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores minima
+officiis distinctio iste. Aperiam veniam velit quisquam commodi, ea temporibus
+asperiores, minima blanditiis repellendus illo tempore dolor libero, tenetur.
+
 
 ## Hotfix v0.1.7 (agora vai)
 
