@@ -49,3 +49,5 @@ officiis distinctio iste. Aperiam veniam velit quisquam commodi, ea temporibus
 asperiores, minima blanditiis repellendus illo tempore dolor libero, tenetur.
 
 ## Hotfix v0.1.8 (Não foi)
+
+## Morroia! (Sera que vai?)
