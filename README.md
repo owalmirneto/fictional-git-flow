@@ -1,5 +1,7 @@
 # Fictional git-flow
 
+## Tá funfando, só falta o testa real ~> v0.2.11
+
 ## Agora é nóix ~> v0.2.10
 
 ## hotfix/v0.2.9
@@ -19,6 +21,8 @@
 ## 005
 
 ## 006
+
+## 007
 
 ## hotfix/v0.0.1
 
