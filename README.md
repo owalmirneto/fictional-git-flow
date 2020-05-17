@@ -25,3 +25,5 @@
 ## hotfix/v0.2.4
 
 ## hotfix/v0.2.5
+
+## hotfix/v0.2.6
