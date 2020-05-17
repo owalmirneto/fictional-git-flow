@@ -6,6 +6,8 @@
 
 ## hotfix/v0.2.8
 
+## feature/card-feature-lançada-antes-do-hotfix
+
 ## 001
 
 ## 002
