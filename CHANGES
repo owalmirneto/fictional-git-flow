@@ -1,3 +1,6 @@
+Version 0.3.1:
+ - Ajusta arquivo de versão e changelog
+
 Version 0.3.0:
  - Atualiza arquivos VERSION e CHANGES da v0.3.0
  - Implementa ~> feature/card-feature-lançada-antes-do-hotfix
