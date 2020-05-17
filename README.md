@@ -17,3 +17,5 @@
 ## hotfix/v0.0.3
 
 ## hotfix/v0.2.1
+
+## hotfix/v0.2.2
