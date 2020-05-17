@@ -1,5 +1,7 @@
 # Fictional git-flow
 
+## Agora é nóix ~> v0.2.10
+
 ## hotfix/v0.2.9
 
 ## hotfix/v0.2.8
